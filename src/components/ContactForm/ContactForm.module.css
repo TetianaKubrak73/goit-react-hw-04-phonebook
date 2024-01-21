@@ -1,0 +1,13 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.buttonAdd {
+  width: 100px;
+  margin-left: 0;
+}
+input {
+  margin-left: 5px;
+  border-radius: 20px;
+}

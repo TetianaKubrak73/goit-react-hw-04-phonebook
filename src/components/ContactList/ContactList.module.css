@@ -1,0 +1,15 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+button {
+  width: 80px;
+  margin-left: 5px;
+  border-radius: 5px;
+  background-color: rosybrown;
+  cursor: pointer;
+}
